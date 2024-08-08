@@ -25,6 +25,13 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shireesharedddy)
 
 
+## Achievements
+
+![GitHub contributors](https://img.shields.io/github/contributors/shireesharedddy/your-repo?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/shireesharedddy/your-repo?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/shireesharedddy/your-repo?style=flat-square)
+
+
 
 ### 🌐 Connect with Me
 
