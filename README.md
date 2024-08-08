@@ -19,10 +19,10 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shireesharedddy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shireesharedddy&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shireesharedddy&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shireesharedddy)
+![Shireesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shireesharedddy&show_icons=true&hide=prs,issues&theme=radical)
+![Shireesha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shireesharedddy&layout=compact&theme=radical)
+![Shireesha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shireesharedddy&theme=radical)
+![Shireesha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shireesharedddy)
 
 
 
