@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=shireesharedddy&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 <p align="center">
-    I’m passionate about <strong>DevOps</strong>, <strong>Cloud Computing</strong>, and <strong>Blockchain Technology</strong>. My journey in tech has been an exciting mix of learning, experimenting, and sharing knowledge. I’m committed to continuously growing and contributing to the tech community.
+   <h3> I’m passionate about <strong>DevOps</strong>, <strong>Cloud Computing</strong>, and <strong>Blockchain Technology</strong>. My journey in tech has been an exciting mix of learning, experimenting, and sharing knowledge. I’m committed to continuously growing and contributing to the tech community.</h3>
 </p>
 
 <h3>🚀 About Me</h3>
