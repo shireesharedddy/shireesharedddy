@@ -25,15 +25,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shireesharedddy)
 
 
-## Achievements
-
-![GitHub forks](https://img.shields.io/github/forks/shireesharedddy/AWS-Session?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/shireesharedddy/AWS-Session?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/shireesharedddy/AWS-Session?style=flat-square)
-![Example badge](https://img.shields.io/badge/example-12345-brightgreen)
-
-
-
 
 ### 🌐 Connect with Me
 
