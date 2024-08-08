@@ -27,9 +27,11 @@
 
 ## Achievements
 
-![GitHub contributors](https://img.shields.io/github/contributors/shireesharedddy/your-repo?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/shireesharedddy/your-repo?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/shireesharedddy/your-repo?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/shireesharedddy/AWS-Session?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/shireesharedddy/AWS-Session?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/shireesharedddy/AWS-Session?style=flat-square)
+![Example badge](https://img.shields.io/badge/example-12345-brightgreen)
+
 
 
 
