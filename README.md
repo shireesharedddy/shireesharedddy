@@ -22,7 +22,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shireesharedddy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shireesharedddy&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shireesharedddy&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shireesharedddy&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shireesharedddy)
+
 
 
 ### 🌐 Connect with Me
