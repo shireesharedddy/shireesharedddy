@@ -18,7 +18,7 @@
         </ul>
     </li>
     <li>💬 <strong>Ask me about:</strong> DevOps, Cloud Computing, Blockchain, or anything tech-related—I’m always up for a chat!</li>
-    <li> Activity: Enrolled in the "DevOps Zero To Hero (Pro Live) course"- Batch 7 on the TrainWithShubham platform</li>
+    <li><b> Activity: Enrolled in the "DevOps Zero To Hero (Pro Live) course"- Batch 7 on the TrainWithShubham platform</b></li>
     <li>📫 <strong>How to reach me:</strong> You can connect with me on <a href="https://www.linkedin.com/in/shireesha-reddy-/" target="_blank">LinkedIn</a>.</li>
 </ul>
 
