@@ -7,6 +7,9 @@
    <h4 align="center">I’m passionate about <strong>DevOps</strong>, <strong>Cloud Computing</strong>, and <strong>Blockchain Technology</strong>. My journey in tech has been an exciting mix of learning, experimenting, and sharing knowledge. I’m committed to continuously growing and contributing to the tech community.</h4>
 </p>
 
+![banner got github](https://github.com/user-attachments/assets/bf0e0aaa-a1f3-4a42-9802-4e578fd1e0ae)
+
+
 <h2>💬 About Me</h2>
 <ul>
  <li>🔭 <strong>Current Focus:</strong> Sharpening my skills in DevOps and Cloud Computing.</li>
