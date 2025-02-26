@@ -31,7 +31,7 @@
         </a>
     </li>
     <li>
-        <a href="https://www.geeksforgeeks.org/user/shireesharedm1fs/" target="_blank">
+        <a href="https://www.geeksforgeeks.org/user/shireeshareddy/" target="_blank">
             <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-5F9B5F?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
         </a>
     </li>
