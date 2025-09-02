@@ -1,27 +1,38 @@
 <h1 align="center">Hi there👋, I'm Shireesha Reddy</h1>
-<h2 align="center">An Aspiring DevOps Engineer & Cloud Computing Enthusiast from Hyderabad, India</h2>
+<h2 align="center">MCA Graduate 🏅 | Software Developer | AI & IoT Explorer | Future Robotics Engineer</h2>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=shireesharedddy&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
+
 <p align="center">
-   <h4 align="center">I’m passionate about <strong>DevOps</strong>, <strong>Cloud Computing</strong>, and <strong>Blockchain Technology</strong>. My journey in tech has been an exciting mix of learning, experimenting, and sharing knowledge. I’m committed to continuously growing and contributing to the tech community.</h4>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0CF7A5&width=1300&lines=Software+Developer+%7C+Automation+Enthusiast+%7C+AI+%26+IoT+Explorer+%7C+Future+Robotics+Engineer+%7C+Lifelong+Learner&repeat=true" alt="Typing Animation" />
 </p>
 
-![banner got github](https://github.com/user-attachments/assets/bf0e0aaa-a1f3-4a42-9802-4e578fd1e0ae)
+<h2 align="center">💬 About Me </h2>
 
-
-<h2>💬 About Me</h2>
 <ul>
- <li>🔭 <strong>Current Focus:</strong> Sharpening my skills in DevOps and Cloud Computing.</li>
-    <li>🌱 <strong>Learning Goals:</strong>
-        <ul>
-            <li><strong>Linux & Shell Scripting:</strong> Enhancing my skills in managing systems and automating tasks.</li>
-            <li><strong>AWS:</strong> Deep diving into Amazon Web Services, focusing on EC2, S3, Lambda, and more.</li>
-            <li><strong>DevOps Tools:</strong> Gaining hands-on experience with tools like Docker, Kubernetes, Jenkins, and CI/CD pipelines.</li>
-        </ul>
-    </li>
-    <li><b>Activity: Enrolled in the "DevOps Zero To Hero (Pro Live) course"- Batch 7 on the <a href="https://www.trainwithshubham.com/" target="_blank">TrainWithShubham platform</a></b></li>
-</ul>
+<li><strong>Current Focus:</strong> Building strong foundations in <b>Software Development, Automation and Robotics</b>.</li>
+  
+<li><strong>Learning Goals:</strong>
+   <ul>
+     <li><strong>AI & IoT:</strong> Exploring applications such as smart detection systems and intelligent automation.</li>
+     <li><strong>Robotics:</strong> Preparing to pursue a <b>Master’s in Robotics</b> (Algorithms & AI Software specialization).</li>
+     <li><strong>Dream Project:</strong> <b>ClarityOS</b> – a Personal Operating System designed to simplify and optimize life management.</li>
+     <li><strong>Content Creation:</strong> Founder of <b>TechBytes</b>, my YouTube channel where I share tech learnings, coding insights, and project explorations.</li>
+     <li><strong>Vision:</strong> To build <b>robotics and systems that think, adapt, and collaborate with humans</b>.</li>
+     <li><h3>🏅 Achievements & Inspirations</h3><strong>MCA Bronze Medalist for Academic Excellence at Amity University.</strong></li>
+   </ul> 
+
+
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,tailwind,javascript,react,nodejs,flask,mysql,hibernate,linux,docker,git,github,aws,opencv,arduino,raspberrypi" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250px" alt="Animated Robot" />
+</p>
+
 
 <h3>📫 How to Reach Me</h3>
 <ul>
@@ -42,10 +53,25 @@
     </li>
 </ul>
 
-<h3>📈 GitHub Stats</h3>
+
+<h3  align="center">📈 GitHub Stats</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shireesharedddy&show_icons=true&hide=prs,issues&theme=radical" alt="Shireesha's GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shireesharedddy&layout=compact&theme=radical" alt="Shireesha's Top Languages"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shireesharedddy&theme=radical" alt="Shireesha's GitHub Streak"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shireesharedddy" alt="Shireesha's GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shireesharedddy&theme=react-dark" alt="Shireesha's GitHub Activity Graph"/>
 </p>
+
+<h3 align="center">I’m passionate about developing <b>intelligent systems, smart robots and AI-powered solutions</b> to make life easier and more interactive.</h3>
+
+<h3 align="center">Fun Robotics Badges</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Robotics-Futuristic-blue?style=flat-square" alt="Robotics"/> 
+  <img src="https://img.shields.io/badge/AI-MachineLearning-green?style=flat-square" alt="AI"/>
+  <img src="https://img.shields.io/badge/IoT-SmartDevices-orange?style=flat-square" alt="IoT"/>
+  <img src="https://img.shields.io/badge/Automation-Workflow-purple?style=flat-square" alt="Automation"/>
+</p>
+
+
+
+
