@@ -28,11 +28,11 @@
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,tailwind,javascript,react,nodejs,flask,mysql,hibernate,linux,docker,git,github,aws,opencv,arduino,raspberrypi" />
-</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250px" alt="Animated Robot" />
+  <img src="https://github.com/user-attachments/assets/1323b7d8-ae92-436c-b66f-654fb341fdf9"
+       alt="AI Image Generator Cinematic Preview"
+       width="700">
 </p>
-
 
 <h3>📫 How to Reach Me</h3>
 <ul>
