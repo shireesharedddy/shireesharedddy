@@ -19,6 +19,10 @@
      <li><strong>AI & IoT:</strong> Exploring applications such as smart detection systems and intelligent automation.</li>
      <li><strong>Robotics:</strong> Preparing to pursue a <b>Master’s in Robotics</b> (Algorithms & AI Software specialization).</li>
      <li><strong>Dream Project:</strong> <b>ClarityOS</b> – a Personal Operating System designed to simplify and optimize life management.</li>
+         <p align="center">
+            <img src="https://github.com/user-attachments/assets/1323b7d8-ae92-436c-b66f-654fb341fdf9"
+                 alt="AI Image Generator Cinematic Preview" width="700">
+        </p>
      <li><strong>Content Creation:</strong> Founder of <b>TechBytes</b>, my YouTube channel where I share tech learnings, coding insights, and project explorations.</li>
      <li><strong>Vision:</strong> To build <b>robotics and systems that think, adapt, and collaborate with humans</b>.</li>
      <li><h3>🏅 Achievements & Inspirations</h3><strong>MCA Bronze Medalist for Academic Excellence at Amity University.</strong></li>
@@ -28,11 +32,6 @@
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,tailwind,javascript,react,nodejs,flask,mysql,hibernate,linux,docker,git,github,aws,opencv,arduino,raspberrypi" />
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1323b7d8-ae92-436c-b66f-654fb341fdf9"
-       alt="AI Image Generator Cinematic Preview"
-       width="700">
-</p>
 
 <h3>📫 How to Reach Me</h3>
 <ul>
