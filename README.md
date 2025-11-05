@@ -64,12 +64,18 @@
 <h3 align="center">I’m passionate about developing <b>intelligent systems, smart robots and AI-powered solutions</b> to make life easier and more interactive.</h3>
 
 <h3 align="center">Fun Robotics Badges</h3>
+
+<p align="center">
+  <img alt="Image_Cinematic_Video_Generation" src="https://github.com/user-attachments/assets/2916c49b-3fe2-4c4e-bc28-1725693e3f19" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-Futuristic-blue?style=flat-square" alt="Robotics"/> 
   <img src="https://img.shields.io/badge/AI-MachineLearning-green?style=flat-square" alt="AI"/>
   <img src="https://img.shields.io/badge/IoT-SmartDevices-orange?style=flat-square" alt="IoT"/>
   <img src="https://img.shields.io/badge/Automation-Workflow-purple?style=flat-square" alt="Automation"/>
 </p>
+
 
 
 
