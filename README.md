@@ -17,7 +17,6 @@
 <li><strong>Learning Goals:</strong>
    <ul>
      <li><strong>AI & IoT:</strong> Exploring applications such as smart detection systems and intelligent automation.</li>
-     <li><strong>Robotics:</strong> Preparing to pursue a <b>Master’s in Robotics</b> (Algorithms & AI Software specialization).</li>
      <li><strong>Dream Project:</strong> <b>ClarityOS</b> – a Personal Operating System designed to simplify and optimize life management.</li>
          <p align="center">
             <img src="https://github.com/user-attachments/assets/1323b7d8-ae92-436c-b66f-654fb341fdf9"
